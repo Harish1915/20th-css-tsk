@@ -1,0 +1,160 @@
+
+table{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+#box1 img{
+   
+    height: 150px;
+    width: 100px;
+     transition-delay: 1s;
+    
+    
+}
+#box1:hover{
+    transform: rotate(360deg);
+    transition: all 1s;
+}
+
+
+#box2 img{
+   
+    height: 150px;
+    width: 100px;
+   
+    transition-delay: 1s;
+    
+}
+#box2:hover{
+    transform: skewX(20deg);
+    transition: all 3s;
+}
+
+#box3 img{
+   
+    height: 150px;
+    width: 100px;
+   
+    transition-delay: 1s;
+    
+}
+#box3:hover{
+    transform: rotatex(360deg);
+    transition: all 3s;
+}
+#box4 img{
+    height: 150px;
+    width: 100px;
+    transition-delay: 3s ;
+}
+#box4:hover{
+    transform: rotateY(180deg);
+    transition: all 10s;
+}
+#box5 img{
+    height: 150px;
+    width: 100px;
+    transition-delay: 3s ;
+}
+#box5:hover{
+    transform: skewY(180deg);
+    transition: all 10s;
+}
+#box6 img{
+    height: 150px;
+    width: 100px;
+    transition-delay: 3s ;
+}
+#box6:hover{
+    transform: skewX(180deg);
+    transition: all 10s;
+}
+#box7 img{
+   
+    height: 150px;
+    width: 100px;
+     transition-delay: 1s;
+    
+}
+#box7:hover{
+    transform: rotate(360deg);
+    transition: all 3s;
+}
+#box8 img{
+   
+    height: 150px;
+    width: 100px;
+   
+    transition-delay: 1s;
+    
+}
+#box8:hover{
+    transform: skewX(20deg);
+    transition: all 3s;
+}
+#box9 img{
+    height: 150px;
+    width: 100px;
+    transition-delay: 3s ;
+}
+#box9:hover{
+    transform: rotateY(180deg);
+    transition: all 10s;
+}
+#box10 img{
+    height: 150px;
+    width: 100px;
+    transition-delay: 3s ;
+}
+#box10:hover{
+    transform: skewX(180deg);
+    transition: all 10s;
+}
+#A img{
+   
+    height: 150px;
+    width: 100px;
+   
+    transition-delay: 1s;
+    
+}
+#A:hover{
+    transform: rotatex(360deg);
+    transition: all 3s;
+}
+#B img{
+    height:150px;
+    width: 100px;
+    transition-delay: 1s;
+}
+#B:hover{
+    transform: rotate(360deg);
+    transition: all 1s ;
+}
+#Cimg{
+    height:150px;
+    width: 100px;
+    transition-delay: 1s;
+}
+#C:hover{
+    transform: rotatey(360deg);
+    transition: all 3s ;
+}
+#D img{
+    height:150px;
+    width: 100px;
+    transition-delay: 1s;
+}
+#D:hover{
+    transform: rotatex(160deg);
+    transition: all 3s ;
+}
+#E img{
+    height:150px;
+    width: 100px;
+    transition-delay: 1s;
+}
+#E:hover{
+    transform: skewX(160deg);
+    transition: all 3s ;
+}
